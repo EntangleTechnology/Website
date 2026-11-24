@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Din1451";
+    src: url("./DIN1451-36breit.ttf") format("truetype");
+}
+
+body {
+    font-family: "Din1451", sans-serif;
+}
